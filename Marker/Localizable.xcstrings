@@ -1,0 +1,23 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CollectionsError" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to retrieve data. Please check your network connection or try again later."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de récupérer les données. Veuillez vérifier votre connexion réseau ou réessayer plus tard."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

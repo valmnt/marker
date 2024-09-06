@@ -6,5 +6,5 @@ target 'Marker' do
   use_frameworks!
 
   # Pods for Marker
-  pod 'R.swift'
+  pod 'SDWebImage', '~> 5.0'
 end

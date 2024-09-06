@@ -1,16 +1,18 @@
 PODS:
-  - R.swift (7.3.2)
+  - SDWebImage (5.19.7):
+    - SDWebImage/Core (= 5.19.7)
+  - SDWebImage/Core (5.19.7)
 
 DEPENDENCIES:
-  - R.swift
+  - SDWebImage (~> 5.0)
 
 SPEC REPOS:
   trunk:
-    - R.swift
+    - SDWebImage
 
 SPEC CHECKSUMS:
-  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  SDWebImage: 8a6b7b160b4d710e2a22b6900e25301075c34cb3
 
-PODFILE CHECKSUM: 73445d58d63c3e2b4e845a01f42b33998bde193d
+PODFILE CHECKSUM: abd69b1354f527574d8cae0e676294b1077b451c
 
 COCOAPODS: 1.15.2
