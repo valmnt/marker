@@ -8,10 +8,14 @@
 import UIKit
 
 class HomeViewController: UIViewController {
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        self.view.backgroundColor = R.color.primaryBackground.callAsFunction()
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = .black
     }
 }
 
